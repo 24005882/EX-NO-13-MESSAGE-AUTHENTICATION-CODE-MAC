@@ -1,5 +1,6 @@
 # EX-NO-13-MESSAGE-AUTHENTICATION-CODE-MAC
-
+developed by :M tharun 
+regsister no : 212224230288
 ## AIM:
 To implement MESSAGE AUTHENTICATION CODE(MAC)
 
